@@ -1,4 +1,4 @@
-package com.estafet.boostcd.commons.lib.jms;
+package com.estafet.boostcd.jms;
 
 import java.util.UUID;
 
