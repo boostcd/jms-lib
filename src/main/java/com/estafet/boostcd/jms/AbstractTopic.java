@@ -6,7 +6,7 @@ import javax.jms.JMSException;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 
-import com.estafet.boostcd.commons.lib.properties.PropertyUtils;
+import com.estafet.boostcd.commons.properties.PropertyUtils;
 
 public class AbstractTopic {
 
